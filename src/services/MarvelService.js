@@ -4,7 +4,7 @@ class MarvelService {
 	// мой ключ
 	_apiKey = 'apikey=129b3670ad033d82bbeb6ea2a1095d5c';
 	//базовый отступ 
-	_baseOffset = 210;
+	_baseOffset = 650;
 
 	// будет отвечать за получение данных
 	getResource = async (url) => {
